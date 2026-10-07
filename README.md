@@ -1,30 +1,25 @@
 # C Programming Fundamentals
 
-A collection of C programming practice programs created while learning programming fundamentals.
+A beginner-friendly collection of C programming exercises covering core programming concepts.
 
-## 📚 Topics Covered
-
-- Variables and Data Types
-- Input and Output
+## Topics
+- Variables and data types
+- Input/output
 - Operators
-- Conditional Statements
+- Conditional statements
 - Loops
 - Functions
 - Arrays
-- Strings
-- Pointers
-- Basic Problem Solving
+- Basic problem solving
 
-## 🎯 Purpose
+## Programs
+1. hello_world.c
+2. calculator.c
+3. even_odd.c
+4. factorial.c
+5. fibonacci.c
+6. prime_number.c
+7. reverse_number.c
+8. array_average.c
 
-This repository documents my learning journey in C programming and contains beginner-friendly programs and practice problems.
-
-## 👨‍💻 Author
-
-**Shakir Hussain**
-
-AI Student | Aror University Sukkur
-
----
-
-⭐ More projects will be added as I continue learning.
+> Learning project: understand each program, modify it, and add your own solutions as you progress.
